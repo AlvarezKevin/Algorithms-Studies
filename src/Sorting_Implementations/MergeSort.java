@@ -18,16 +18,17 @@ public class MergeSort {
 
         long startTime = System.currentTimeMillis();
 
-        int newA[] = merge(a);
+        //int newA[] = merge(a);
 
         long endTime = System.currentTimeMillis();
         long time = endTime - startTime;
 
-        System.out.println("After merge sort: \n" + Arrays.toString(newA));
+        //System.out.println("After merge sort: \n" + Arrays.toString(newA));
         System.out.println("Time: " + time);
     }
 
     private static int[] merge(int[] a,int p, int r) {
        //TODO Implement
+        return null;
     }
 }
