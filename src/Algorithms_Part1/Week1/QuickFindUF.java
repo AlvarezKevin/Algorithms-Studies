@@ -1,4 +1,4 @@
-package Algorithms_Part1;
+package Algorithms_Part1.Week1;
 
 /**
  * Created by Kevin on 6/27/2017.
