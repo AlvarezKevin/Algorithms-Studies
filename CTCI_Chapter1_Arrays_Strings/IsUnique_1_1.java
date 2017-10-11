@@ -1,5 +1,3 @@
-package CTCI_Chapter1_Arrays_Strings;
-
 import java.util.Scanner;
 
 /**
